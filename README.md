@@ -7,10 +7,10 @@
 <pre align="center">
 ███╗   ███╗ ██████╗  ██████╗ ███╗   ██╗██╗     ██╗ ██████╗ ██╗  ██╗████████╗
 ████╗ ████║██╔═══██╗██╔═══██╗████╗  ██║██║     ██║██╔═══██╗██║  ██║╚══██╔══╝
-██╔████╔██║██║   ██║██║   ██║██╔██╗ ██║██║     ██║██║   ██║███████║   ██║
-██║╚██╔╝██║██║   ██║██║   ██║██║╚██╗██║██║     ██║██║   ██║██╔══██║   ██║
-██║ ╚═╝ ██║╚██████╔╝╚██████╔╝██║ ╚████║███████╗██║╚██████╔╝██║  ██║   ██║
-╚═╝     ╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚══════╝╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝
+██╔████╔██║██║   ██║██║   ██║██╔██╗ ██║██║     ██║██║   ██║███████║   ██║   
+██║╚██╔╝██║██║   ██║██║   ██║██║╚██╗██║██║     ██║██║   ██║██╔══██║   ██║   
+██║ ╚═╝ ██║╚██████╔╝╚██████╔╝██║ ╚████║███████╗██║╚██████╔╝██║  ██║   ██║   
+╚═╝     ╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚══════╝╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝   
 </pre>
 </p>
 
@@ -25,7 +25,6 @@
 ---
 
 ## 🖥️ About Us (Terminal Style)
-
 
 > studio info
 MoonlightStudi0s — команда разработчиков, создающих проекты любой сложности
@@ -52,4 +51,4 @@ AI/ML, Full-Stack Web, Game Dev, Automation Systems
 
 🌐 Contacts
 <p align="center"> <a href="mailto:contact@moonlightstudi0s.com"><img src="https://img.shields.io/badge/Email-📩_Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://t.me/moonlightstudi0s"><img src="https://img.shields.io/badge/Telegram-🌙_Join-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a> <a href="https://linkedin.com/company/moonlightstudi0s"><img src="https://img.shields.io/badge/LinkedIn-⚡_Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=MoonlightStudi0s&color=blueviolet&style=flat-square&label=PROFILE+VIEWS"/> </p> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=MoonlightStudi0s&color=blueviolet&style=flat-square&label=PROFILE+VIEWS"/> </p>
