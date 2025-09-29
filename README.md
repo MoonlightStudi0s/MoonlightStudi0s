@@ -24,7 +24,7 @@
 
 ---
 
-## 🖥️ About Us (Terminal Style)
+## 🖥️ About Us
 
 > studio info
 MoonlightStudi0s — команда разработчиков, создающих проекты любой сложности
@@ -36,9 +36,9 @@ AI/ML, Full-Stack Web, Game Dev, Automation Systems
 Разрабатывать технологию будущего, вдохновляя настоящим 🌙
 ⚡ Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,js,ts,react,vue,nextjs,nodejs,express,django,flask,postgresql,mongodb,sqlite,git,docker,linux,aws,gcp,unity,unreal" /> </p>
-📊 GitHub Stats
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MoonlightStudi0s&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoonlightStudi0s&theme=tokyonight&hide_border=true" height="180"/> </p>
-🏆 Achievements
+
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=MoonlightStudi0s&theme=matrix&margin-w=15&margin-h=15&column=6" /> </p>
 🌌 Projects
 🌙 AI Solutions → предиктивные модели, чат-боты, аналитика
