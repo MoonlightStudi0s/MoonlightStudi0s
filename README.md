@@ -1,3 +1,11 @@
+<h1 align="center">🌙 MoonlightStudi0s 🌙</h1>
+<h3 align="center">We Code in the Dark</h3>
+
+---
+
+<p align="center">
+  
+
 ███╗   ███╗ ██████╗  ██████╗ ███╗   ██╗██╗     ██╗ ██████╗ ██╗  ██╗████████╗
 ████╗ ████║██╔═══██╗██╔═══██╗████╗  ██║██║     ██║██╔═══██╗██║  ██║╚══██╔══╝
 ██╔████╔██║██║   ██║██║   ██║██╔██╗ ██║██║     ██║██║   ██║███████║   ██║
@@ -5,10 +13,7 @@
 ██║ ╚═╝ ██║╚██████╔╝╚██████╔╝██║ ╚████║███████╗██║╚██████╔╝██║  ██║   ██║
 ╚═╝     ╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚══════╝╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝
 
-
-🌙 MoonlightStudi0s — We Code in the Dark 🌙
-
-````
+</p>
 
 ---
 
@@ -22,7 +27,7 @@
 
 ## 🖥️ About Us (Terminal Style)
 
-```bash
+
 > studio info
 MoonlightStudi0s — команда разработчиков, создающих проекты любой сложности
 
@@ -31,7 +36,6 @@ AI/ML, Full-Stack Web, Game Dev, Automation Systems
 
 > mission
 Разрабатывать технологию будущего, вдохновляя настоящим 🌙
-````
 
 ---
 
@@ -82,5 +86,4 @@ AI/ML, Full-Stack Web, Game Dev, Automation Systems
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MoonlightStudi0s&color=blueviolet&style=flat-square&label=PROFILE+VIEWS"/>
 </p>
-```
 
