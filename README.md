@@ -19,7 +19,7 @@
 <h3 align="center">🚀 Full-Stack Development | 🤖 AI Solutions | 🎮 Game Dev</h3>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif](https://i.pinimg.com/736x/a8/46/f6/a846f60da351bbf9313429db87e32d8d.jpg)" width="500"/>
+  <img src="https://i.pinimg.com/736x/a8/46/f6/a846f60da351bbf9313429db87e32d8d.jpg" width="500"/>
 </p>
 
 ---
