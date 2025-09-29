@@ -37,7 +37,7 @@ AI/ML, Full-Stack Web, Game Dev, Automation Systems
 
 ---
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,js,ts,react,vue,nextjs,nodejs,express,django,flask,postgresql,mongodb,sqlite,git,docker,linux,aws,gcp,unity,unreal" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,js,flask,sqlite,git,docker,html,css,php,c,cpp,assemble" /> </p>
 
 ---
 
