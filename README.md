@@ -1,6 +1,6 @@
 <h1 align="center">🌙 MoonlightStudi0s 🌙</h1>
 
----
+
 
 <p align="center">
 <pre align="center">
@@ -15,7 +15,7 @@
 
 ---
 
-<h3 align="center">🚀 Full-Stack Development | 🤖 AI Solutions | 🎮 Game Dev</h3>
+<h3 align="center">Development | AI Solutions | Game Dev</h3>
 
 <p align="center">
   <img src="https://i.pinimg.com/736x/a8/46/f6/a846f60da351bbf9313429db87e32d8d.jpg" width="500"/>
@@ -49,13 +49,13 @@ AI/ML, Full-Stack Web, Game Dev, Automation Systems
 ---
 
 🌌 Projects
-🌙 AI Solutions → предиктивные модели, чат-боты, аналитика
+🌙 AI Solutions
 
-🎮 Game Dev → игры с упором на атмосферу и сюжет
+🎮 Game Dev
 
-⚡ Web Apps → высоконагруженные сайты, автоматизированные системы
+⚡ Web Apps
 
-🔒 Security Tools → решения для кибербезопасности
+🔒 Security Tools
 
 🌐 Contacts
 <p align="center"> <a href="mailto:contact@moonlightstudi0s.com"><img src="https://img.shields.io/badge/Email-📩_Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://t.me/moonlightstudi0s"><img src="https://img.shields.io/badge/Telegram-🌙_Join-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a> <a href="https://linkedin.com/company/moonlightstudi0s"><img src="https://img.shields.io/badge/LinkedIn-⚡_Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a> </p>
