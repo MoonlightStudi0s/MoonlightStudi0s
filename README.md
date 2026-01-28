@@ -1,5 +1,4 @@
 <h1 align="center">🌙 MoonlightStudi0s 🌙</h1>
-<h3 align="center">We Code in the Dark</h3>
 
 ---
 
