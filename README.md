@@ -25,14 +25,13 @@
 
 ## 🖥️ About Us
 
-> studio info
-MoonlightStudi0s — команда разработчиков, создающих проекты любой сложности
+> studio info <br>
+MoonlightStudi0s — a team of developers who create projects of any complexity
 
 > expertise  
 AI/ML, Full-Stack Web, Game Dev, Automation Systems
 
-> mission
-Разрабатывать технологию будущего, вдохновляя настоящим 🌙
+
 
 ---
 
